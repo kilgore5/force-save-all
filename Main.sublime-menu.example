@@ -1,0 +1,11 @@
+[
+  {
+    "id": "file",
+    "children": [
+      {
+        "caption" : "Force Save All Open Files",
+        "command" : "force_save_all"
+      }
+    ]
+  }
+]
