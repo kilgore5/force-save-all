@@ -1,4 +1,0 @@
-[
-    { "caption": "BetterSave: Save All", "command": "save_all_existing_files" },
-    { "caption": "BetterSave: Prune All", "command": "close_all_non_existing_files" },
-]
