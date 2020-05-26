@@ -1,5 +1,7 @@
 # Force Saver
-Sublime plugin to trigger save on all files open in a window. Useful for triggering after-save actions (e.g. https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save).
+Sublime plugin to trigger save on all files open in a window.
+
+Useful for triggering after-save actions (e.g. https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save).
 
 # Installation
 - Clone this repo to your local machine
